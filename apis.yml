@@ -1,7 +1,11 @@
 aid: huntsman
-url: https://raw.githubusercontent.com/api-evangelist/huntsman/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/huntsman/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.huntsman.com
+description: >-
+  Huntsman Corporation is a publicly traded global chemical manufacturer of differentiated
+  and specialty chemicals serving a diverse range of consumer and industrial end markets.
