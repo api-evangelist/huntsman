@@ -22,10 +22,14 @@ modified: '2026-04-28'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/huntsman-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/huntsman
   - type: Website
     url: https://www.huntsman.com/
+  - url: https://www.huntsman.com/news/media-releases/rss
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
