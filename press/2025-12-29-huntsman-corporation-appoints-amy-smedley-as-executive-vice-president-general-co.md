@@ -2,7 +2,9 @@
 title: Huntsman Corporation Appoints Amy Smedley as Executive Vice President, General
   Counsel & Secretary
 url: https://www.huntsman.com/news/media-releases/detail/616/huntsman-corporation-appoints-amy-smedley-as-executive-vice
-date: '2025-12-29'
+published: ''
+date_basis: harvested
+harvested: '2025-12-29'
 author: ''
 feed_url: https://www.huntsman.com/news/media-releases/rss
 ---

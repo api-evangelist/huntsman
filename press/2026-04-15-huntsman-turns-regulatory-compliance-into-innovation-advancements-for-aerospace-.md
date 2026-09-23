@@ -2,7 +2,9 @@
 title: Huntsman Turns Regulatory Compliance into Innovation Advancements for Aerospace
   OEMs
 url: https://www.huntsman.com/news/media-releases/detail/622/huntsman-turns-regulatory-compliance-into-innovation
-date: '2026-04-15'
+published: ''
+date_basis: harvested
+harvested: '2026-04-15'
 author: ''
 feed_url: https://www.huntsman.com/news/media-releases/rss
 ---

@@ -1,7 +1,9 @@
 ---
 title: Huntsman Announces Second Quarter 2026 Common Dividend
 url: https://www.huntsman.com/news/media-releases/detail/624/huntsman-announces-second-quarter-2026-common-dividend
-date: '2026-04-30'
+published: ''
+date_basis: harvested
+harvested: '2026-04-30'
 author: ''
 feed_url: https://www.huntsman.com/news/media-releases/rss
 ---

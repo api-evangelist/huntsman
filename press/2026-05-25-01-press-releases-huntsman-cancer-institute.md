@@ -1,7 +1,9 @@
 ---
 title: Press Releases | Huntsman Cancer Institute
 url: https://healthcare.utah.edu/huntsmancancerinstitute/press-releases
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Huntsman" press release artificial intelligence'
 position: 1
 source: serpapi-google

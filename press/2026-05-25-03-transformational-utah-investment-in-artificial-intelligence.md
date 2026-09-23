@@ -1,7 +1,9 @@
 ---
 title: Transformational Utah Investment in Artificial Intelligence ...
 url: https://healthcare.utah.edu/huntsmancancerinstitute/press-releases/2026/04/transformational-utah-investment-artificial-intelligence-and-computing
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Huntsman" press release artificial intelligence'
 position: 3
 source: serpapi-google

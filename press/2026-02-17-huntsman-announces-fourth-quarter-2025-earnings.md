@@ -1,7 +1,9 @@
 ---
 title: Huntsman Announces Fourth Quarter 2025 Earnings
 url: https://www.huntsman.com/news/media-releases/detail/618/huntsman-announces-fourth-quarter-2025-earnings
-date: '2026-02-17'
+published: ''
+date_basis: harvested
+harvested: '2026-02-17'
 author: ''
 feed_url: https://www.huntsman.com/news/media-releases/rss
 ---

@@ -1,7 +1,9 @@
 ---
 title: Huntsman to Discuss First Quarter 2026 Results on May 1, 2026
 url: https://www.huntsman.com/news/media-releases/detail/621/huntsman-to-discuss-first-quarter-2026-results-on-may-1
-date: '2026-04-01'
+published: ''
+date_basis: harvested
+harvested: '2026-04-01'
 author: ''
 feed_url: https://www.huntsman.com/news/media-releases/rss
 ---

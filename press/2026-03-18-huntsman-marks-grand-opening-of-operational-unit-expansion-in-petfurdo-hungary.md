@@ -1,7 +1,9 @@
 ---
 title: Huntsman Marks Grand Opening of Operational Unit Expansion in Petfurdo, Hungary
 url: https://www.huntsman.com/news/media-releases/detail/620/huntsman-marks-grand-opening-of-operational-unit-expansion
-date: '2026-03-18'
+published: ''
+date_basis: harvested
+harvested: '2026-03-18'
 author: ''
 feed_url: https://www.huntsman.com/news/media-releases/rss
 ---

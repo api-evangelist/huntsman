@@ -1,7 +1,9 @@
 ---
 title: Huntsman Updates Fourth Quarter 2025 Outlook
 url: https://www.huntsman.com/news/media-releases/detail/615/huntsman-updates-fourth-quarter-2025-outlook
-date: '2025-12-01'
+published: ''
+date_basis: harvested
+harvested: '2025-12-01'
 author: ''
 feed_url: https://www.huntsman.com/news/media-releases/rss
 ---

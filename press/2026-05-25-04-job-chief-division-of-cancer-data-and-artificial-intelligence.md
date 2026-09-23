@@ -1,7 +1,9 @@
 ---
 title: Job | Chief - Division of Cancer Data and Artificial Intelligence
 url: https://www.aaci-cancer.org/job-chief-division-of-cancer-data-and-artificial-intelligence
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Huntsman" press release artificial intelligence'
 position: 4
 source: serpapi-google

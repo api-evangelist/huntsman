@@ -1,7 +1,9 @@
 ---
 title: Huntsman Announces First Quarter 2026 Earnings
 url: https://www.huntsman.com/news/media-releases/detail/623/huntsman-announces-first-quarter-2026-earnings
-date: '2026-04-30'
+published: ''
+date_basis: harvested
+harvested: '2026-04-30'
 author: ''
 feed_url: https://www.huntsman.com/news/media-releases/rss
 ---

@@ -1,7 +1,9 @@
 ---
 title: Huntsman to Discuss Fourth Quarter 2025 Results on February 18, 2026
 url: https://www.huntsman.com/news/media-releases/detail/617/huntsman-to-discuss-fourth-quarter-2025-results-on-february
-date: '2026-01-07'
+published: ''
+date_basis: harvested
+harvested: '2026-01-07'
 author: ''
 feed_url: https://www.huntsman.com/news/media-releases/rss
 ---
