@@ -1,5 +1,5 @@
 aid: huntsman
-name: Huntsman Corporation
+name: Huntsman
 description: >-
   Huntsman Corporation is a publicly traded global chemical manufacturer of
   differentiated and specialty chemicals serving a diverse range of consumer
@@ -55,3 +55,4 @@ common:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+x-legal-name: Huntsman Corporation
